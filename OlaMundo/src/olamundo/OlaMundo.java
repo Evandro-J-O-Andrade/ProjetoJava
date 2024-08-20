@@ -46,6 +46,6 @@ public class OlaMundo {
         return super.hashCode();
     }
     
-   System.out.println("Olá Mundo!")
+ 
             
 }
