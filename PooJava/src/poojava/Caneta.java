@@ -3,7 +3,7 @@ package poojava;
 
 /**
  *
- * @author TI-02
+ * @author Evandro Andrade
  */
 public class Caneta {
   String modelo;
