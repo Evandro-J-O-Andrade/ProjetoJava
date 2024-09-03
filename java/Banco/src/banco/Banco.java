@@ -10,9 +10,6 @@ import modelos.Contas;
  */
 public class Banco {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Conta a =new Conta("Conta 1");
         // TODO code application logic here
